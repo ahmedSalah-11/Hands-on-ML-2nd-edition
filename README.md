@@ -1,2 +1,2 @@
 # Hands-on-ML-2nd-edition
-applying projects inside the book inside this repo
+`Hands-On Machine Learning with Scikit-Learn and TensorFlow` is a great book that's full of practical projects. in this repo i will try to apply each chapters's projects
